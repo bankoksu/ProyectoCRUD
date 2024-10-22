@@ -1,0 +1,14 @@
+com\pruebaBackFront\personaBackend\service\PaisService.class
+com\pruebaBackFront\personaBackend\model\Persona.class
+com\pruebaBackFront\personaBackend\rest\PaisREST.class
+com\pruebaBackFront\personaBackend\rest\PersonaREST.class
+com\pruebaBackFront\personaBackend\service\EstadoService.class
+com\pruebaBackFront\personaBackend\repository\EstadoRepository.class
+com\pruebaBackFront\personaBackend\service\PersonaService.class
+com\pruebaBackFront\personaBackend\repository\PersonaRepository.class
+com\pruebaBackFront\personaBackend\PersonaBackendApplication.class
+com\pruebaBackFront\personaBackend\rest\EstadoRest.class
+com\pruebaBackFront\personaBackend\repository\PaisRepository.class
+com\pruebaBackFront\personaBackend\model\Estado.class
+com\pruebaBackFront\personaBackend\model\Pais.class
+com\pruebaBackFront\personaBackend\pruebados\pruebaDos.class
